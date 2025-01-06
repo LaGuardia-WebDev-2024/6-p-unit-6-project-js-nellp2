@@ -11,9 +11,47 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
+  stroke(179, 7, 111)
+  strokeWeight(6)
+  //bottom lid
+  fill(214, 164, 114)
+  ellipse(150, 240, 160, 60);
   
+  //eyeball
+  fill(250, 227, 241)
+  ellipse(150, 200, 175, 100);
+  fill(34, 227, 176)
+  ellipse(150, 200, 100, 100);
+  fill(62, 156, 118)
+  ellipse(150, 200, 50, 50);
+  
+  //eyebrow and piercing
+  fill(105, 72, 56)
+  rect(70, 132, 180, 8);
+  fill(186, 173, 181)
+  ellipse(110, 125, 10, 10);
+  ellipse(110, 145, 10, 10);
+  
+  //top eye lid
+  fill(214, 164, 114)
+  ellipse(150, 170, 180, 40);
+  lashes
+  fill(38, 4, 25)
+  textSize(60)
+  text(l, 51
+  , 270)
+  text(l, 70, 275)
+  text(l, 90, 283)
+  text(l, 110, 289)
+  text(l, 130, 292)
+  text(l, 150, 289)
+  text(l, 170, 283)
+  text(l, 190, 275)
 
-  
+
+
+
+
 
 }
 
